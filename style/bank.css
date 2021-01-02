@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  margin: 6px 12px;
+  background-color: #5886ac;
+}
+
+body .title {
+  margin-top: 1rem;
+  text-align: center;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+body .formname {
+  text-align: center;
+}
+
+body .inf {
+  text-align: right;
+}
+
+body input {
+  margin-top: 10px;
+}
+
+body label {
+  margin-top: 10px;
+}
+
+body select {
+  margin-top: 10px;
+}
+
+body .sign {
+  text-align: right;
+}
+/*# sourceMappingURL=bank.css.map */
